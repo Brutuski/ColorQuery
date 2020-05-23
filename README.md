@@ -29,8 +29,11 @@ Depending on what the user enter, HEX or RGB Values, the output is as follows
 + `./query.py`
 
 ## Screenshots
-Menu:<img src="https://raw.githubusercontent.com/Brutuski/ColorQuery/master/Screenshots/Menu.png"/>
-Sample Output:<img src="https://raw.githubusercontent.com/Brutuski/ColorQuery/master/Screenshots/SampleOutput.png" />
+Menu:
+<img src="https://raw.githubusercontent.com/Brutuski/ColorQuery/master/Screenshots/Menu.png"/>
+
+Sample Output:
+<img src="https://raw.githubusercontent.com/Brutuski/ColorQuery/master/Screenshots/SampleOutput.png" />
 
 ## To Do
 + Add error catching
