@@ -1,6 +1,6 @@
 ![maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen) ![made_with](https://img.shields.io/badge/Made%20with-Python3-1f425f.svg) [![license](https://img.shields.io/badge/License-MIT-green)](https://github.com/Brutuski/ColorQuery/blob/master/LICENSE) ![version](https://img.shields.io/badge/Version-BETA%200.1-red)
 # ColorQuery
-A small python CLI to fetch details about the entered RGB of HEX Values. <\br>
+A small python CLI to fetch details about the entered RGB of HEX Values. <br>
 This tool can be helpful to users who have to look up colors often, like developers working on new color schemes or users ricing their linux build.
 
 ## API
